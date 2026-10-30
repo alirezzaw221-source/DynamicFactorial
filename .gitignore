@@ -1,1 +1,6 @@
+# Ignore the executable in version 1
+version_1/FactorialDP
+# Ignore the executable in version 2
+version_2/DynamicFactorial
+
 .vscode/
